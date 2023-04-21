@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 /**
 * main - Entry 
@@ -12,3 +11,4 @@ Repeat the same line but where you see char..u replace with an int,
 Third line replace with...a long int, 
 Fourth line replace with...a long long int,
 Fifth line replace with...a float.
+} 
