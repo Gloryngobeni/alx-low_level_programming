@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * print_sign - prints the sign of a numver
  *
@@ -28,4 +28,3 @@ int print_sign(int n)
 	}
 	return (-1);
 }
-
