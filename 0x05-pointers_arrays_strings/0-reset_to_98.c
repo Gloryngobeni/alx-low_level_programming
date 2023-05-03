@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+ * reset_to_98 -a function that takes an int as parameter
+ * and updates the value it poibts to 98
+ * @n: input
+ * Return: n
+ */
+viod reset_to_98(int *n)
+{
+	*n = 98;
+}
